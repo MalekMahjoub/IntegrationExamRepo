@@ -1,0 +1,12 @@
+
+public class exa {
+
+	public static void main() {
+		// TODO Auto-generated method stub
+		
+	}
+	public test()
+	{
+		System.out.println(WElcome to IC);
+	}
+}
